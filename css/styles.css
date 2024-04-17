@@ -1,0 +1,58 @@
+a{
+    text-decoration: none;
+    margin-right: 35px;
+}
+.busqueda{
+    display: flex;
+    justify-content: center;
+    margin-top: -50%;
+    
+    
+}
+.busqueda-field{
+    display: flex;
+    background-color: white;
+    width: 65%;
+    align-items: center;
+    padding: 20px;
+}
+
+.panel{
+    border: 1px solid #ccc;
+    background-color: white;
+    position: relative;
+    height: 310px;
+    width: 350px;
+    left: 20%;
+    margin-top: 6%;
+}
+
+.valor{
+    background-color: #eb4245;
+    color: #fff;
+    padding: 15px 25px;
+    border: none ;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.ciudades{
+    display: flex;
+    margin-top: 15%;
+    
+}
+.ciudades img{
+    height: 80%;
+    width: 71.6%;
+}
+.ciudades p{
+    font-size: 75%;
+    color: #9ed033;
+}
+.ciudades button {
+    border: none;
+    padding: 5% 15%;
+    background-color: #9ed033;
+    color: white;
+}
+
